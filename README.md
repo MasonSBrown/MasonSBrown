@@ -2,8 +2,6 @@
 
 💻 **Aspiring Software Engineering** | 🚀 **AI & Machine Learning Enthusiast (Particularly in Medical Imaging!)** | 🎯 **Full-Stack Developer**
 
-I bring hands-on experience in **machine learning, full-stack development, and distributed computing**!
-
 ---
 
 ## 🛠 Technical Skills
@@ -16,7 +14,7 @@ I bring hands-on experience in **machine learning, full-stack development, and d
 🎓 **UC Santa Cruz**  
 **Bachelor of Science in Computer Engineering** | **GPA: 3.9** | *Expected June 2026*  
 
-**Relevant Coursework:** Data Structures and Algorithms, Object-Oriented Programming, Machine Learning & AI
+---
 
 ## 🔥 Featured Projects
 ### [**EcoShoppr**](https://github.com/yourusername/ecoshoppr) *(React, TypeScript, Docker, Cloudflare)*
