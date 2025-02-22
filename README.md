@@ -14,8 +14,9 @@
 ---
 
 ## 🔥 Projects
-🔹 [**EcoShoppr**](https://github.com/yourusername/ecoshoppr) – Grocery price comparison platform using **React, TypeScript, Docker, SQL**.
-🔹 [**LinkedIn WebScraper**](https://github.com/yourusername/linkedin-webscraper) – Automated job tracker using **Python, Selenium, Twilio API**.
+🔹 [**EcoShoppr**](https://github.com/EcoShoppr/EcoShoppr) – Grocery price comparison platform using **React, TypeScript, Docker, SQL**.
+
+🔹 [**LinkedIn WebScraper**](https://github.com/MasonSBrown/LinkedIn-Webscraper) – Automated job tracker using **Python, Selenium, Twilio API**.
 
 ---
 
