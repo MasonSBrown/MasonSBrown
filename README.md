@@ -8,7 +8,8 @@
 ---
 
 ## 💼 Experience
-🔹 **Vice President, ACM @ UCSC** 
+🔹 **Vice President, ACM @ UCSC**
+
 🔹 **Research Assistant @ UC Santa Cruz Machine Leaning & Intelligence Laboratory** 
 
 ---
@@ -26,11 +27,10 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MasonSBrown&layout=compact&theme=light)
 
 🔹 **Frameworks & Tools:** React, Angular, Node.js, Express.js, SQL, Docker, Cloudflare
+
 🔹 **AI/ML:** PyTorch, TensorFlow, OpenCV
 
 ---
 
-## 📬 Connect with Me
+## 📬 Connect with Me & Send a Message :) !
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/mason-s-brown)
-
-🚀 **Let's connect and collaborate!**
