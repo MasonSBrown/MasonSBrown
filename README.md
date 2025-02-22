@@ -1,9 +1,5 @@
 # Hi, I'm Mason Brown 👋
 
-💻 **Software Engineer | AI & Machine Learning | Full-Stack Developer**
-
-🚀 Passionate about AI-driven solutions, machine learning, and scalable full-stack development.
-
 ---
 
 ## 📖 Education
@@ -12,8 +8,8 @@
 ---
 
 ## 💼 Experience
-🔹 **Vice President, ACM UCSC** – Led development of **Slugloop**, a real-time **bus tracking platform** used by 2,000+ daily users.
-🔹 **Research Assistant** – Developed a **PyTorch AI model**, improving mitotic detection efficiency by 20%.
+🔹 **Vice President, ACM @ UCSC** 
+🔹 **Research Assistant @ UC Santa Cruz Machine Leaning & Intelligence Laboratory** 
 
 ---
 
@@ -35,6 +31,5 @@
 
 ## 📬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/mason-s-brown)
-📧 [Email](mailto:650.mason.b@gmail.com)
 
 🚀 **Let's connect and collaborate!**
