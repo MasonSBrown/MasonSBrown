@@ -1,4 +1,4 @@
-# Hi, I'm Mason Brown 👋
+# Hi, I'm Mason 👋
 
 ---
 
