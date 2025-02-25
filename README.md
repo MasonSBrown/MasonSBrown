@@ -1,19 +1,5 @@
 # Hi, I'm Mason 👋
 
----
-
-## 📖 Education
-🎓 **UC Santa Cruz** | **B.S. Computer Engineering** | *GPA: 3.91 (Expected June 2026)*
-
----
-
-## 💼 Experience
-🔹 **Vice President, ACM @ UCSC**
-
-🔹 **Research Assistant @ UC Santa Cruz Machine Leaning & Intelligence Laboratory** 
-
----
-
 ## 🔥 Projects
 🔹 [**EcoShoppr**](https://github.com/EcoShoppr/EcoShoppr) – Grocery price comparison platform using **React, TypeScript, Docker, SQL**.
 
